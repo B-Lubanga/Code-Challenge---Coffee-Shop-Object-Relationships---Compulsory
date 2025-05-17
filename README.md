@@ -21,19 +21,14 @@
 7. Implement a class method
 8. Bonus Task - Optional (Testing)
 
-# - Create a `tests` directory in your project directory.
-
-# - Add test files (`test_customer.py`, `test_coffee.py`, # test_order.py`) to test each class and method.
-
-# - Write test cases to validate that each method and property works correctly.
-
-# - Use `pytest` to run your tests:
-
-# ```bash
-
-# pytest
-
-    ```
+- Create a `tests` directory in your project directory.
+- Add test files (`test_customer.py`, `test_coffee.py`, # test_order.py`) to test each class and method.
+- Write test cases to validate that each method and property works correctly.
+- Use `pytest` to run your tests:
 
 9. Handle Exceptions and Validate Inputs
 10. Debugging and Refactoring
+
+# Flow diagram
+
+<img src='flowDiagram.png'>
